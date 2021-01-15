@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025955322607",
+    "project_id": "paysera-services",
+    "storage_bucket": "paysera-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025955322607:android:d62272d2a9a14dcbd1591a",
+        "android_client_info": {
+          "package_name": "dz.djellab.paysera_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025955322607-ocsq63u63chd32vdm017t7i65kb6np57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX-TPcHIwLqJN6K3eFtDe1GLzC5CBsXvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025955322607-ocsq63u63chd32vdm017t7i65kb6np57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
